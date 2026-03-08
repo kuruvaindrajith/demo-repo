@@ -1,2 +1,3 @@
 Hello app
 Login feature added
+Search feature added but buggy
